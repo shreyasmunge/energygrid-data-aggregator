@@ -1,0 +1,14 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+python-client/venv/
+
+
+node_modules/
+mock-api/node_modules/
+
+output/
